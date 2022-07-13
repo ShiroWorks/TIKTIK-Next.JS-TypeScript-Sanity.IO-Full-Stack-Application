@@ -1,6 +1,6 @@
 # Full Stack Application with Next.Js, Typescript, Sanity.IO and More
 
-Video sharing social media application with modern design, google auth, the ability to upload, publish, share, comment on and like the videos. Filtering by categories and advanced search functionalities. Profile pages, suggested acounts, custom response design and much more.
+Video sharing social media application with modern design, google auth, the ability to upload, publish, share, comment on and like the videos. Filtering by categories and advanced search functionalities. Profile pages, suggested accounts, custom responsive design and much more.
 
 
 
